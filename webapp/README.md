@@ -1,16 +1,16 @@
 ## Installation
 
 ```bash
-$ npm install
+$ yarn install
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ npm run dev
+$ yarn dev
 
 # production
-$ npm run build
-$ npm run start
+$ yarn build
+$ yarn start
 ```
